@@ -7988,7 +7988,7 @@ p=P.bl(7,m,!1,t.tI)
 o=t.S
 n=t.u3
 new N.DK(m,s,!0,new P.au(new P.S(r,t.D),t.Q),!1,m,!1,!1,m,m,m,!1,0,!1,m,m,new N.ID(P.aJ(t.M)),m,m,q,m,N.anN(),new Y.zD(N.anM(),p,t.f7),!1,0,P.u(o,t.b1),P.bp(o),H.a([],n),H.a([],n),m,!1,C.bm,!0,!1,m,C.r,C.r,m,0,m,!1,P.j7(m,t.cL),new O.SE(P.u(o,t.p6),P.u(t.yd,t.rY)),new D.OR(P.u(o,t.eK)),new G.SH(),P.u(o,t.ln),m,!1,C.mC).KV()}s=$.ah
-s.Ha(new S.ro(l,"levelSelection",!1,m))
+s.Ha(new S.ro(l,"splash",!1,m))
 s.xw()},
 a3h:function a3h(){},
 a3i:function a3i(){},
@@ -33266,7 +33266,7 @@ D.a_5.prototype={
 $0:function(){},
 $S:0}
 K.m9.prototype={
-K:function(a,b){var s,r,q,p,o,n=null,m=F.Q(b).a.a<950?F.Q(b).a.a*0.98:F.Q(b).a.a*0.35
+K:function(a,b){var s,r,q,p,o,n=null,m=F.Q(b).a.a<950?F.Q(b).a.a*0.9:F.Q(b).a.a*0.35
 m=M.ax(n,L.d2(this.d,$.po(),n,n),C.j,n,n,n,n,n,n,n,n,n,m)
 s=K.dj(15)
 r=F.Q(b).a.a<950?F.Q(b).a.a*0.95:F.Q(b).a.a*0.35
