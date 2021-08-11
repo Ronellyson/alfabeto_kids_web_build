@@ -7988,7 +7988,7 @@ p=P.bl(7,m,!1,t.tI)
 o=t.S
 n=t.u3
 new N.DW(m,s,!0,new P.av(new P.S(r,t.D),t.Q),!1,m,!1,!1,m,m,m,!1,0,!1,m,m,new N.IR(P.aJ(t.M)),m,m,q,m,N.aod(),new Y.zL(N.aoc(),p,t.f7),!1,0,P.u(o,t.b1),P.bp(o),H.a([],n),H.a([],n),m,!1,C.bm,!0,!1,m,C.r,C.r,m,0,m,!1,P.j9(m,t.cL),new O.SX(P.u(o,t.p6),P.u(t.yd,t.rY)),new D.P8(P.u(o,t.eK)),new G.T_(),P.u(o,t.ln),m,!1,C.mF).KY()}s=$.ai
-s.Hd(new S.ru(l,"challenge",!1,m))
+s.Hd(new S.ru(l,"splash",!1,m))
 s.xy()},
 a3K:function a3K(){},
 a3L:function a3L(){},
