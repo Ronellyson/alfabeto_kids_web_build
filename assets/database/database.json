@@ -1,0 +1,46 @@
+{
+  "desafios": {
+    "cores": {
+      "yellow": {
+        "image": "https://image.freepik.com/fotos-gratis/fundo-de-gesso-veneziano-sem-costura-amarelo-dourado_24972-294.jpg",
+        "text": "amarelo"
+      }
+    },
+    "objetos": {
+      "tv":{
+        "image": "https://w7.pngwing.com/pngs/562/785/png-transparent-television-free-content-free-to-air-drawing-1950s-tv-s-orange-media-cartoon.png",
+        "text": "televisão"
+      }
+    },
+    "frutas": {
+      "pera":{
+        "image": "https://hiperideal.vteximg.com.br/arquivos/ids/167745-1000-1000/80764.jpg?v=636615816415070000",
+        "text": "pera"
+      }
+    },
+    "animais": {
+      "elefante": {
+        "image": "https://poplembrancinhas.com.br/wp-content/uploads/2020/09/elefante-desenho-lindo-1.jpg",
+        "text": "elefante"
+      }
+    },
+    "brinquedos": {
+      "ioio": {
+        "image": "https://st.depositphotos.com/1620766/1344/v/600/depositphotos_13446023-stock-illustration-vector-icon-yoyo.jpg",
+        "text": "ioio"
+      }
+    },
+    "partesDoCorpo": {
+      "pernas": {
+        "image": "https://cdn.w600.comps.canstockphoto.com/caricatura-perna-imagem_csp16911171.jpg",
+        "text": "pernas"
+      }
+    },
+    "paises": {
+      "brasil": {
+        "image": "https://gartic.com.br/imgs/mural/an/antares027/mapa-do-brasil.png",
+        "text": "brasil"
+      }
+    }
+  }
+}
